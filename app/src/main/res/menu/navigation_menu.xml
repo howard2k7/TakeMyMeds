@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/plan"
+        android:icon="@drawable/ic_plan"
+        android:title="@string/plan"/>
+    <item
+        android:id="@+id/new_medikament"
+        android:icon="@drawable/ic_medicine"
+        android:title="@string/new_medicament"/>
+    <item
+        android:id="@+id/list"
+        android:icon="@drawable/ic_list"
+        android:title="@string/list"/>
+    <item
+        android:id="@+id/protocol"
+        android:icon="@drawable/ic_protocol"
+        android:title="@string/protocol"/>
+</menu>
